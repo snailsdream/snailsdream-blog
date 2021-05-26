@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: sonail's blog
+heroText: snail's blog
 tagline: 路漫漫其修远兮，吾将上下而求索。
 # actionText: 立刻进入 →
 # actionLink: /web/
